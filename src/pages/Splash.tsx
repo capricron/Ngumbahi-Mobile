@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, ImageBackground, Image} from 'react-native'
 import React, {useEffect} from 'react'
-import {Logo, SplashBackground } from '../../assets'
+import {Logo, SplashBackground } from '../assets'
 
 import { ImageRequireSource, ViewStyle } from 'react-native';
 

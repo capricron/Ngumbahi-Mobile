@@ -1,0 +1,5 @@
+export const PRIMARY_COLOR  = "#55CB95"
+export const DISABLE_COLOR  = "#C8C8C8"
+export const SEKUNDER_COLOR = "#E0F7EF"
+export const GREY_COLOR = "#F6F6F6"
+export const WARNING_COLOR = "#FF4D00"
